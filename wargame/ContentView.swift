@@ -6,13 +6,6 @@ struct ContentView: View {
     @State var cpuScore = 0
     @State var playerCard = "card2"
     @State var cpuCard = "card2"
-    
-    /*
-    var playerScore = 1
-    var cpuScore = 1
-    var playerCard = "card2"
-    var cpuCard = "card2"
-    */
      
     var body: some View {
         
