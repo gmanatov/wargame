@@ -5,4 +5,4 @@ Wargame, an equivalent of fidget spinner by its ingenuity and simplicity in a fo
 
 Made with Swift for iOS
 
-[Try it!](https://appetize.io/app/guzyrbpoppczhwnm4vwehgvthu?device=iphone15pro&osVersion=17.2&scale=75)
+[Try it!](https://appetize.io/app/hhub35rtgsltlpkgoja42opzpq?device=iphone15promax&osVersion=17.2&scale=75)
